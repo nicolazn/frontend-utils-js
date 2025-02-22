@@ -1,0 +1,12 @@
+{
+  "name": "frontend-utils-js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolazn/frontend-utils-js"
+  },
+  "keywords": ["libreria", "yarn"],
+  "author": "Tuo Nome",
+  "license": "MIT"
+}
