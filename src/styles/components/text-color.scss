@@ -1,0 +1,11 @@
+.text-reveal {
+    div {
+        background: linear-gradient(to right, #000 50%, #b8b8b8 50%);
+        background-size: 200% 100%;
+        background-position-x: 0;
+        color: transparent;
+        background-clip: text;
+        -webkit-background-clip: text;
+        line-height: 1.5;
+    }
+}
